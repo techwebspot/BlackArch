@@ -29,3 +29,4 @@ cd BlackArch-master
 chmod +x install.sh
 BlackArch
 ```
+If this tool came in helpful for you please consider leaving a star at our BlacArch Github repo.
