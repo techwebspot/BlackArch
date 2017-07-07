@@ -12,7 +12,7 @@ BlackArch is a script to install blackarch repos in arch base system. Once you i
 1. Download the zip file using the "Clone or download" button.
 2. Navigate to the download directory and unzip the archive.
 3. Open a terminal and navigate to the target directory.  
-`cd ~/Downloads/BlackArch`
+`cd ~/Downloads/BlackArch-master`
 4. Give permission to install script.  
 `chmod +x install.sh`
 4. Install the script.  
@@ -25,7 +25,7 @@ BlackArch is a script to install blackarch repos in arch base system. Once you i
 ```
 cd ~/Downloads
 git clone https://github.com/techwebspot/BlackArch.git
-cd BlackArch
+cd BlackArch-master
 chmod +x install.sh
 BlackArch
 ```
